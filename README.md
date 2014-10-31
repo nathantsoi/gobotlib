@@ -2,7 +2,7 @@
 
 A go + web tech teaching tool. My first go code, improvements are welcome and will gladly be pulled in.
 
-This repository is missing the 3 main files, necessary to make the program work. Checkout nathantsoi.github.io/slides/gobot.html for the accompanying code and talk
+This repository is missing the 3 main files, necessary to make the program work. Checkout http://nathan.vertile.com/slides/gobot/ for the accompanying code and talk
 
 # Prereqs
 
